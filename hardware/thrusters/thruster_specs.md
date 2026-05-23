@@ -15,6 +15,18 @@ This configuration enables:
 - directional stabilization
 - differential thrust movement
 
+
+
+| Spec     | Value       |
+| -------- | ----------- |
+| Voltage  | 12–24V      |
+| Current  | 20A         |
+| Power    | 30–200W     |
+| Motor KV | 1000KV      |
+| Quantity | 3 thrusters |
+
+
+
 ---
 
 # Thruster Layout
