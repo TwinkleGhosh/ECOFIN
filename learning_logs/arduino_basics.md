@@ -25,7 +25,7 @@ Goal: Build strong embedded systems fundamentals before full robot integration.
 13. Sensor Reading
 14. Servo Control
 15. ESC Control
-16. Mini Projects
+16. TEST LOGIC to learn
 17. Common Errors
 18. Engineering Best Practices
 19. Future Integration with EcoFin
