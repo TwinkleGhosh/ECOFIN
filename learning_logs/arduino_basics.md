@@ -242,52 +242,73 @@ PWM allows Arduino to simulate analog output using digital pulses.
 
 PWM controls:
 
-ESC speed
-Servo position
-Motor power
-LED brightness
-PWM Pins on Nano
-Pin	PWM
-3	Yes
-5	Yes
-6	Yes
-9	Yes
-10	Yes
-11	Yes
-PWM THEORY
+- ESC speed
+- Servo position
+- Motor power
+- LED brightness
+
+## PWM Pins on Nano
+
+| Pin | PWM |
+|-----|-----|
+| 3   | Yes |
+| 5   | Yes |
+| 6   | Yes |
+| 9   | Yes |
+| 10  | Yes |
+| 11  | Yes |
+
+# PWM THEORY
 
 PWM rapidly switches voltage ON and OFF.
 
 Average voltage changes depending on duty cycle.
 
-Duty Cycle
-Duty Cycle	Average Power
-0%	OFF
-25%	Low Power
-50%	Medium
-100%	Full Power
-PWM SIGNAL VISUALIZATION
-25% Duty Cycle
+## Duty Cycle
+
+| Duty Cycle | Average Power |
+|------------|----------------|
+| 0%         | OFF            |
+| 25%        | Low Power      |
+| 50%        | Medium         |
+| 100%       | Full Power     |
+
+# PWM SIGNAL VISUALIZATION
+
+## 25% Duty Cycle
+
+```text
 HIGH __
      | |
 LOW__| |________
-50% Duty Cycle
+```
+
+## 50% Duty Cycle
+
+```text
 HIGH ____ 
      |  |
 LOW__|  |____
-75% Duty Cycle
+```
+
+## 75% Duty Cycle
+
+```text
 HIGH ________
      |      |
 LOW__|      |__
-GENERATING PWM
+```
+
+# GENERATING PWM
+
+```cpp
 analogWrite(9, 128);
+```
 
 Range:
 
-0 → OFF
-255 → FULL POWER
-
-
+- 0 → OFF
+- 255 → FULL POWER
 ---
 
 
@@ -483,7 +504,10 @@ Touch spinning propellers
 
 These projects build engineering confidence.
 
+
 1. — BLINK LED
+
+
 Objective
 
 Learn digital output.
@@ -511,7 +535,11 @@ Digital output
 Timing
 Loops
 GPIO basics
+
+
 2. — READ POTENTIOMETER
+
+
 Objective
 
 Learn analog input.
@@ -537,7 +565,11 @@ ADC
 Sensor reading
 Serial Monitor
 Voltage measurement
+
+
 3. — CONTROL SERVO
+
+
 Objective
 
 Learn PWM servo signals.
@@ -569,7 +601,11 @@ PWM timing
 Servo signals
 Libraries
 Motor control
+
+
 4. — GENERATE PWM
+
+
 Objective
 
 Understand duty cycles.
@@ -597,7 +633,11 @@ Concepts Learned
 PWM output
 Duty cycle
 Speed/power control
+
+
 5. — CONTROL ONE ESC
+
+
 Objective
 
 Control one thruster safely.
