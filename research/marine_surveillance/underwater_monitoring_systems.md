@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Underwater monitoring systems collect information from aquatic environments.
+Underwater monitoring systems collect information from aquatic environment.
 
 ---
 

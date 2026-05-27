@@ -25,4 +25,4 @@ It is used for:
 IMUs may later help:
 - maintain heading
 - stabilize movement
-- detect orientation changes
+- detect orientation changes.

@@ -36,4 +36,4 @@ Computer vision enables robots to interpret visual information from cameras.
 
 - intelligent environmental analysis
 - real-time object detection
-- autonomous visual navigation
+- autonomous visual navigation.

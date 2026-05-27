@@ -32,4 +32,4 @@ Future systems may include:
 - underwater currents
 - sensor noise
 - unstable thrust
-- vibration effects
+- vibration effects.

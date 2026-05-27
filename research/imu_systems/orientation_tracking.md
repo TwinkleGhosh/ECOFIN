@@ -26,4 +26,4 @@ Orientation tracking determines how EcoFin is positioned underwater.
 
 - stable directional movement
 - heading correction
-- autonomous stabilization
+- autonomous stabilization.

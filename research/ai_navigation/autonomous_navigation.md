@@ -29,4 +29,4 @@ Potential systems:
 - IMU
 - AI algorithms
 - computer vision
-- sensor fusion
+- sensor fusion.

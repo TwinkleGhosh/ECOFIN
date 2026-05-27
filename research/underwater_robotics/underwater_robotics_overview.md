@@ -52,4 +52,4 @@ EcoFin is conceptually closer to an AUV system.
 - underwater navigation
 - stabilization systems
 - waterproof electronics
-- sensor fusion
+- sensor fusion.

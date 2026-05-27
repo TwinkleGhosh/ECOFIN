@@ -33,4 +33,4 @@ Feedback systems help:
 Potential future feedback inputs:
 - IMU data
 - heading measurements
-- depth sensors
+- depth sensors.

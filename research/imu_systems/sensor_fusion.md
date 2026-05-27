@@ -33,4 +33,4 @@ Sensor fusion helps reduce these issues.
 
 - improved navigation accuracy
 - stable movement estimation
-- autonomous orientation tracking
+- autonomous orientation tracking.

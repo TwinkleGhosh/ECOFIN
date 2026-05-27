@@ -26,4 +26,4 @@ Obstacle avoidance systems help robots detect and avoid collisions.
 
 - safe autonomous navigation
 - intelligent movement adaptation
-- underwater collision prevention
+- underwater collision prevention.

@@ -38,4 +38,4 @@ The body shape should:
 
 - optimize body shape
 - improve propulsion efficiency
-- reduce energy loss
+- reduce energy loss.

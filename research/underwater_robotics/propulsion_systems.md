@@ -47,4 +47,4 @@ Current configuration:
 - thrust efficiency
 - underwater drag
 - energy consumption
-- directional stability
+- directional stability.

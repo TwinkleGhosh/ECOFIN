@@ -28,4 +28,4 @@ Potential future systems:
 
 - intelligent monitoring
 - autonomous scanning
-- environmental data collection
+- environmental data collection.

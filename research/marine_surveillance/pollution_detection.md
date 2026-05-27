@@ -30,4 +30,4 @@ Future EcoFin systems may detect:
 
 - autonomous pollution mapping
 - intelligent waste detection
-- environmental cleanup support
+- environmental cleanup support.

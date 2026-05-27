@@ -40,4 +40,4 @@ Potential uses:
 - underwater stabilization
 - heading correction
 - thrust balancing
-- navigation assistance
+- navigation assistance.
