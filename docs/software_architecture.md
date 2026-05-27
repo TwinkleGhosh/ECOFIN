@@ -18,7 +18,7 @@ Handles:
 ---
 
 ### 2. Control Layer
-Responsible for:
+Responsible for :
 - PWM generation
 - PID control
 - movement logic

@@ -4,7 +4,7 @@
 
 Autonomous underwater navigation is one of the core goals of EcoFin.
 
-The system aims to navigate underwater environments intelligently and efficiently.
+The system aims to navigate underwater environments intelligently and efficiently .
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## What is an IMU?
 
-IMU (Inertial Measurement Unit) is a sensor system used for:
+IMU (Inertial Measurement Unit) is a sensor system used for :
 - orientation detection
 - motion tracking
 - stabilization

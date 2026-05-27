@@ -7,7 +7,7 @@ PID stands for:
 - Integral
 - Derivative
 
-It is a feedback control system widely used in robotics and autonomous systems.
+It is a feedback control system widely used in robotics and autonomous systems .
 
 ---
 

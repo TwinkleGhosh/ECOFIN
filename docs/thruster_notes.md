@@ -4,7 +4,7 @@
 
 Thrusters are the primary propulsion system of EcoFin.
 
-The project currently uses thruster-based movement instead of traditional robotic fish tail propulsion due to:
+The project currently uses thruster-based movement instead of traditional robotic fish tail propulsion due to :
 - higher control precision
 - easier software implementation
 - better stability for beginners

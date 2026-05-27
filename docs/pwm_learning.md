@@ -2,7 +2,7 @@
 
 ## What is PWM?
 
-PWM (Pulse Width Modulation) is a signal control technique used to regulate:
+PWM (Pulse Width Modulation) is a signal control technique used to regulate :
 - motor speed
 - ESC behavior
 - thruster output

@@ -4,7 +4,7 @@
 
 ESC (Electronic Speed Controller) regulates power delivery from the battery to brushless motors.
 
-It converts PWM signals into motor movement.
+It converts PWM signals into motor movement .
 
 ---
 

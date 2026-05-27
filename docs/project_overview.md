@@ -4,7 +4,7 @@
 
 EcoFin is a thruster-based underwater robotic fish system designed for marine surveillance and environmental monitoring.
 
-The project focuses on:
+The project focuses on :
 - underwater navigation
 - thruster control systems
 - AI-assisted environmental analysis
