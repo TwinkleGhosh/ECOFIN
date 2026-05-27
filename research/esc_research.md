@@ -1,7 +1,7 @@
 # ESC RESEARCH
 # Electronic Speed Controllers for EcoFin
 
- Stage 2 — ESC Systems  
+ Stage 1 — ESC Systems  
 
 
 ---
