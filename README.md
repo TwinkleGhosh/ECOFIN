@@ -93,6 +93,79 @@ This project is also a personal engineering journey focused on:
 
 ---
 
+# STAGES TO START LEARNING WITH
+
+# Stage 1 — Control System Foundation
+
+- Learn PWM fundamentals
+- Understand ESC working principles
+- Study Arduino basics
+- Learn how thrusters are controlled
+
+# Stage 2 — Robot Motion Systems
+
+- Write basic movement code
+- Learn differential thrust control
+- Understand underwater robot motion
+- Implement forward, reverse, turning, and stop logic
+
+# Stage 3 — PID Control Systems
+
+- Learn PID fundamentals
+- Understand stability and error correction
+- Build heading stabilization logic
+- Begin PID simulations and tuning
+
+Important PID equation:
+
+:contentReference[oaicite:0]{index=0}
+
+# Stage 4 — Firmware Engineering
+
+- Learn modular embedded programming
+- Build scalable firmware architecture
+- Create reusable drivers and controllers
+- Learn robotics state machines
+
+# Stage 5 — Simulation & Testing
+
+- Simulate robot movement
+- Test PWM vs speed behavior
+- Simulate turning and heading correction
+- Validate control logic before hardware deployment
+
+# Stage 6 — Architecture & Documentation
+
+- Create engineering diagrams
+- Document research and experiments
+- Maintain learning logs
+- Track hardware, firmware, and simulation progress
+
+# Stage 7 — Hardware Integration
+
+- Integrate battery and power systems
+- Connect ESCs and thrusters
+- Add sensors and communication systems
+- Perform real-world testing
+
+# Stage 8 — Autonomous Navigation
+
+- Heading hold
+- Obstacle avoidance
+- Navigation algorithms
+- Path planning systems
+
+# Stage 9 — AI & Advanced Robotics
+
+- Plastic detection using AI vision
+- Environmental analysis
+- Underwater mapping
+- Future ROS and SLAM integration
+
+
+---
+
+
 # Repository Structure
 
 ```text
@@ -104,6 +177,7 @@ EcoFin/
 ├── media/
 ├── research/
 ├── roadmap/
+├── learning_logs/
 ├── simulations/
 │
 ├── README.md
